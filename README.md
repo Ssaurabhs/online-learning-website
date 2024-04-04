@@ -22,7 +22,7 @@ Web browser (e.g., Chrome, Firefox, Safari)
 Text editor (e.g., Visual Studio Code, Sublime Text)
 Installation
 Clone the repository:
-git clone https://github.com/https://github.com/Ssaurabhs/online-learning-website.git
+git clone [https://github.com/https://github.com/Ssaurabhs/online-learning-website.git](https://github.com/Ssaurabhs/online-learning-website/tree/main)
 Open the project in your preferred text editor.
 Launch the index.html file in a web browser.
 Technologies Used
